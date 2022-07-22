@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/simple-food-order/static/css/main.aa6464f3.chunk.css",
+    "main.js": "/simple-food-order/static/js/main.59a850be.chunk.js",
+    "main.js.map": "/simple-food-order/static/js/main.59a850be.chunk.js.map",
+    "runtime-main.js": "/simple-food-order/static/js/runtime-main.6d3da1bb.js",
+    "runtime-main.js.map": "/simple-food-order/static/js/runtime-main.6d3da1bb.js.map",
+    "static/js/2.2c99fabf.chunk.js": "/simple-food-order/static/js/2.2c99fabf.chunk.js",
+    "static/js/2.2c99fabf.chunk.js.map": "/simple-food-order/static/js/2.2c99fabf.chunk.js.map",
+    "index.html": "/simple-food-order/index.html",
+    "static/css/main.aa6464f3.chunk.css.map": "/simple-food-order/static/css/main.aa6464f3.chunk.css.map",
+    "static/js/2.2c99fabf.chunk.js.LICENSE.txt": "/simple-food-order/static/js/2.2c99fabf.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpeg": "/simple-food-order/static/media/meals.2971f633.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d3da1bb.js",
+    "static/js/2.2c99fabf.chunk.js",
+    "static/css/main.aa6464f3.chunk.css",
+    "static/js/main.59a850be.chunk.js"
+  ]
+}
